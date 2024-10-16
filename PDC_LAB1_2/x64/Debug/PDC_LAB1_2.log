@@ -1,0 +1,6 @@
+﻿  main.cpp
+  source.cpp
+C:\Users\Vlad\source\repos\PDC_LAB1_2\PDC_LAB1_2\source.cpp(79,21): warning C4267: =: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Vlad\source\repos\PDC_LAB1_2\PDC_LAB1_2\source.cpp(93,21): warning C4267: =: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+  Создание кода...
+  PDC_LAB1_2.vcxproj -> C:\Users\Vlad\source\repos\PDC_LAB1_2\x64\Debug\PDC_LAB1_2.exe

@@ -1,0 +1,9 @@
+﻿  UnitTest2.cpp
+C:\Users\Vlad\source\repos\PDC_LAB1_2\PDC_LAB1_2\source.cpp(79,21): warning C4267: =: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+  (компиляция исходного файла "/UnitTest2.cpp")
+  
+C:\Users\Vlad\source\repos\PDC_LAB1_2\PDC_LAB1_2\source.cpp(93,21): warning C4267: =: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+  (компиляция исходного файла "/UnitTest2.cpp")
+  
+     Создается библиотека C:\Users\Vlad\source\repos\PDC_LAB1_2\x64\Debug\UnitTest2.lib и объект C:\Users\Vlad\source\repos\PDC_LAB1_2\x64\Debug\UnitTest2.exp
+  UnitTest2.vcxproj -> C:\Users\Vlad\source\repos\PDC_LAB1_2\x64\Debug\UnitTest2.dll
